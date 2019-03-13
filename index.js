@@ -1,4 +1,6 @@
-const append = [];
+const append = () => {
+  
+}
 const prepend = [];
 const removeLast = [];
 const removeFirst = [];
