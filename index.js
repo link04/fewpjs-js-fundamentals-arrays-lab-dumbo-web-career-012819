@@ -1,2 +1,2 @@
-const drivers = []
-drivers.push("Odie")
+const drivers = [];
+drivers.push("Odie");
