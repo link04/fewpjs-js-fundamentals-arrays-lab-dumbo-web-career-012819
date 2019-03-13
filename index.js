@@ -4,4 +4,7 @@ const removeLast = ["Milo", "Otis", "Garfield"];
 const removeFirst = ["Milo", "Otis", "Garfield"];
 
 
-drivers.push("Odie");
+append.push("Odie");
+prepend.push("Odie");
+removeLast.push("Odie");
+removeFirst.push("Odie");
